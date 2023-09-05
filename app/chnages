@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Docs Link Update</title>
+</head>
+<body>
+    <!-- Original admin docs URL -->
+    <p>Original Admin Docs URL: <a href="https://example.com/admin/display-ads">Admin Docs - Display Ads</a></p>
+    
+    <!-- Updated admin docs URL -->
+    <p>Updated Admin Docs URL: <a href="https://example.com/admin/billboards#20023">Admin Docs - Billboards (#20023)</a></p>
+</body>
+</html>
